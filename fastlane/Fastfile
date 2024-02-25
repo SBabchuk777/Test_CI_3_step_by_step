@@ -90,7 +90,7 @@ platform :ios do
       export_options: {
           uploadBitcode: false, # Вимкнути біткод
           #uploadSymbols: true,
-          #compileBitcode: true,
+          compileBitcode: false,
           #provisioningProfiles: {
           #  'com.TestCI.TestCI': 'Match AppStore com.TestCI.TestCI'
           #}
