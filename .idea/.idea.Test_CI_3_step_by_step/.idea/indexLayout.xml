@@ -3,9 +3,6 @@
   <component name="ContentModelUserStore">
     <attachedFolders />
     <explicitIncludes>
-      <Path>Library/PackageCache/com.onesignal.unity.android@3.0.1</Path>
-      <Path>Library/PackageCache/com.onesignal.unity.core@3.0.1</Path>
-      <Path>Library/PackageCache/com.onesignal.unity.ios@3.0.1</Path>
       <Path>Library/PackageCache/com.unity.2d.animation@7.0.10</Path>
       <Path>Library/PackageCache/com.unity.2d.common@6.0.6</Path>
       <Path>Library/PackageCache/com.unity.2d.path@5.0.2</Path>
