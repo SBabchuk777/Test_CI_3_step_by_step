@@ -1,10 +1,10 @@
 org, repo = (ENV["GITHUB_REPOSITORY"]||"").split("/")
 match_org, match_repo = (ENV["MATCH_REPOSITORY"]||"").split("/")
 
-before_all do
+#before_all do
   # Встановити і використати певну версію Xcode
-  xcversion(version: "14.2.0")
-end
+#  xcversion(version: "14.2.0")
+#end
 
 platform :ios do
   lane :init_ci do
