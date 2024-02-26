@@ -94,7 +94,7 @@ platform :ios do
           #provisioningProfiles: {
           #  'com.TestCI.TestCI': 'Match AppStore com.TestCI.TestCI'
           #}
-        }
+       #}
     )
   end
 
