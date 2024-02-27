@@ -89,7 +89,7 @@ platform :ios do
       #destination: "platform=iOS Simulator, id=0FA23C4A-0E4A-4F03-9F6C-32122603E2DA, OS=16.2, name=iPhone 14"
       export_options: {
         uploadBitcode: false, # Вимкнути біткод
-        compileBitcode: true, # Вимкнути компіляцію біткоду
+        compileBitcode: false, # Вимкнути компіляцію біткоду
         #uploadSymbols: true,
         #provisioningProfiles: {
         #  'com.TestCI.TestCI': 'Match AppStore com.TestCI.TestCI'
